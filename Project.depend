@@ -1,0 +1,78 @@
+# depslib dependency file v1.0
+1482924746 source:c:\users\uzer\desktop\project\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<windows.h>
+
+1482924746 c:\users\uzer\desktop\project\include\sequence.h
+	<iostream>
+	<cstring>
+
+1482924746 c:\users\uzer\desktop\project\include\dna.h
+	"Sequence.h"
+	"RNA.h"
+
+1482924746 c:\users\uzer\desktop\project\include\rna.h
+	"DNA.h"
+	"Sequence.h"
+	"Protein.h"
+	"CodonsTable.h"
+
+1482924746 c:\users\uzer\desktop\project\include\protein.h
+	"DNA.h"
+	"Sequence.h"
+
+1482924746 c:\users\uzer\desktop\project\include\codonstable.h
+	<iostream>
+	<string.h>
+
+1482924746 source:c:\users\uzer\desktop\project\src\codonstable.cpp
+	"CodonsTable.h"
+	<iostream>
+	<fstream>
+
+1482924746 source:c:\users\uzer\desktop\project\src\dna.cpp
+	"DNA.h"
+	"RNA.h"
+	"string.h"
+	<fstream>
+
+1482925162 source:c:\users\uzer\desktop\project\src\protein.cpp
+	"Protein.h"
+	"DNA.h"
+	<fstream>
+
+1482924746 source:c:\users\uzer\desktop\project\src\rna.cpp
+	"RNA.h"
+	"DNA.h"
+	"CodonsTable.h"
+	"Sequence.h"
+	"Protein.h"
+	<fstream>
+
+1482924837 source:c:\users\uzer\desktop\project\src\sequence.cpp
+	"Sequence.h"
+	"DNA.h"
+
+1482924746 source:c:\users\viragesud\desktop\project\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<windows.h>
+
+1482924746 source:c:\users\peter\downloads\project\project\main.cpp
+	<iostream>
+	"Sequence.h"
+	"DNA.h"
+	"RNA.h"
+	"Protein.h"
+	"CodonsTable.h"
+	<windows.h>
+
